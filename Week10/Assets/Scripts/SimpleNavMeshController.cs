@@ -9,10 +9,11 @@ public class SimpleNavMeshController : MonoBehaviour
     private NavMeshAgent _agent;
     [SerializeField]
     private Camera _camera;
+
     // Start is called before the first frame update
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
